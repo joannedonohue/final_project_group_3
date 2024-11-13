@@ -9,4 +9,4 @@ https://www.youtube.com/watch?v=M_Cu7r9gik4
 https://www.kaggle.com/datasets/ealaxi/paysim1?resource=download
 
 ## Option 3: NLP w/ Amazon Reviews
-https://nijianmo.github.io/amazon/index.html
+[https://nijianmo.github.io/amazon/index.html](https://jmcauley.ucsd.edu/data/amazon/index_2014.html)
