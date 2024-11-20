@@ -1,17 +1,15 @@
 # final_project_group_3
 
-## Option 1: Credit Card Fraud Detection - focus on this one!
+## Dataset 1: Credit Card Fraud Detection
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
-Accompanying youtube:
-https://www.youtube.com/watch?v=M_Cu7r9gik4
 
 https://www.kaggle.com/datasets/kartik2112/fraud-detection
 
-## Option 2: Also CC Fraud Detection - sounds like we won't use this one
+## Dataset 2: Also CC Fraud Detection
 https://www.kaggle.com/datasets/ealaxi/paysim1?resource=download
 
-## Option 3: NLP w/ Amazon Reviews - Vivin to work on this 
+## Dataset 3: NLP w/ Amazon Reviews
 # Amazon Reviews Sentiment and Aspect-Based Analysis
 
 ## Project Overview
